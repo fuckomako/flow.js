@@ -1,8 +1,8 @@
 {
-  "name": "@flowjs/flow.js",
+  "name": "@flowjs/flowjs",
   "version": "2.11.2",
   "description": "Flow.js library implements html5 file upload and provides multiple simultaneous, stable, fault tolerant and resumable uploads.",
-  "main": "src/flow.js",
+  "main": "src/flowjs",
   "scripts": {
     "test": "grunt test"
   },
@@ -11,7 +11,7 @@
     "url": "git://github.com/flowjs/flow.js.git"
   },
   "keywords": [
-    "flow.js",
+    "flowjs",
     "flow",
     "resumable.js",
     "file upload",
